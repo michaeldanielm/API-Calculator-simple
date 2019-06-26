@@ -12,6 +12,6 @@
 ![CI-Calculator](https://raw.githubusercontent.com/michaeldanielm/)
 
 ## Instalacion
-1. Clone the repo using: `git clone https://github.com/`
+1. Clone the repo using: `git clone https://github.com/michaeldanielm/API-Calculator-simple`
 2. Compile & run the java file inside /src.
 
