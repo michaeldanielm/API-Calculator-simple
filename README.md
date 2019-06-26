@@ -9,7 +9,9 @@
     
     
 ## Screenshots
-![CI-Calculator](https://raw.githubusercontent.com/michaeldanielm/)
+![CI-Calculator](https://raw.githubusercontent.com/michaeldanielm/API-Calculator-simple/master/Prueba%20de%20funcionamiento/rest.PNG)
+![CI-Calculator](https://raw.githubusercontent.com/michaeldanielm/API-Calculator-simple/master/Prueba%20de%20funcionamiento/soap.PNG)
+
 
 ## Instalacion
 1. Clone the repo using: `git clone https://github.com/michaeldanielm/API-Calculator-simple`
